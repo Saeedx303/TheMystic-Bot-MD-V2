@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219996125657'],
-  ['5219992095479', '👑 Mystic - Creador 👑', true]
+  ['923361501800'],
+  ['923137183974', '👑 Mystic - Creador 👑', true]
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
